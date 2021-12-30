@@ -1,2 +1,2 @@
 # report1
-need inspire
+need inspirefile:///C:/ssb-1/index.html
